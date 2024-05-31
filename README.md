@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,c++,javascript,bootstrap,react-js,node-js,linkedin,mongodb,firebase,github,git,postman,figma,perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,c++,javascript,bootstrap,reactjs,nodejs,linkedin,mongodb,firebase,github,git,postman,figma,perline=5)](https://skillicons.dev)
 
 ![dvij thumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=DVIJTHUMAR&show_icons=true&theme=dark)
 
