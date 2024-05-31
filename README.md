@@ -20,7 +20,7 @@
 <!--    <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
-    <a href="www.linkedin.com/in/dvij-thumar">
+    <a href="https://www.linkedin.com/in/dvij-thumar/">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="linkedin Badge"/>
   </a>
 </div>
